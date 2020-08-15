@@ -1,0 +1,33 @@
+body 
+{
+  background-color: black;
+}
+
+/* .NAVBAR
+{
+    margin-top:10px;
+    margin-right:20%;
+    margin-left:20%;
+    text-align: center;
+} */
+.nav-link{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: x-large;
+}
+
+#Search:hover
+{
+  background-color: rgb(121, 174, 199);
+}
+
+.card-title
+{
+  font-size: x-large;
+  cursor: pointer;
+  color: #000;
+
+}
+.card-title:hover
+{
+  color: rgb(0, 140, 255);
+}
